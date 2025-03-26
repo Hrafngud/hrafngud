@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm João "Gobrin"!</h1>
+<h1 align="center">👋 Hey, I'm João!</h1>
 <h3 align="center">Full-stack Developer | Node.js, Vue.js, Next.js | System Design & Bot Ecosystems</h3>
 
 ---
