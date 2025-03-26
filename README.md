@@ -9,8 +9,6 @@ I’m a **full-stack software developer** specializing in modern **front-end and
 💡 **Currently working on:**  
 - **Vue.js + TypeScript Front-end Development** (Vite, Tailwind)  
 - **Node.js Back-end Systems** (Express, Sequelize, MySQL)  
-- **Telegram Bot Ecosystem** (Custom bot framework & system management modules)  
-- **Transparent Checkout Development** (Integrating seamless payment solutions)  
 
 🔧 **Technical Expertise:**  
 - **Front-end:** Vue.js (Composition API, Pinia), Next.js, TailwindCSS  
