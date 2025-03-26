@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm João Davi!</h1>
+<h1 align="center">👋 Hey, I'm João "Gobrin"!</h1>
 <h3 align="center">Full-stack Developer | Node.js, Vue.js, Next.js | System Design & Bot Ecosystems</h3>
 
 ---
@@ -51,20 +51,20 @@ I’m a **full-stack software developer** specializing in modern **front-end and
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hrafngud&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrafngud&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📌 Featured Projects  
-### 🔹 [Mycell - Multi-Agent AI Pipeline](https://github.com/Gobrin/Mycell)  
-> **A high-end interface for AI workflows** supporting multi-agent interactions and message forwarding between AI modules.
+## 📌 Featured Projects 
+ 
 
-### 🔹 [Telegram Bot Framework](https://github.com/Gobrin/TelegramBotFramework)  
-> **A Node.js-based modular bot framework** for developing advanced Telegram bots with system management capabilities.
+### 🔹 [Piper-Z](https://piper-z.vercel.app/)  
+> **A powerful automation and bot management system**, designed to optimize workflows and streamline integrations.
 
-### 🔹 [Transparent Checkout System](https://github.com/Gobrin/CheckoutSystem)  
-> **A seamless, user-friendly payment solution** designed for high conversion rates in Vue.js.
+
+## 🌎 My Portfolio  
+🚀 **Check out my latest projects & work:**  
+🔗 [Project Portfolio](https://project-portifolio-v3-2.vercel.app/)
 
 ---
 
