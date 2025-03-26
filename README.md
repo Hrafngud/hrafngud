@@ -58,18 +58,3 @@ I’m a **full-stack software developer** specializing in modern **front-end and
 ## 🌎 My Portfolio  
 🚀 **Check out my latest projects & work:**  
 🔗 [Project Portfolio](https://project-portifolio-v3-2.vercel.app/)
-
----
-
-## 📬 Let's Connect  
-<p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" />
-  </a>
-  <a href="https://t.me/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
