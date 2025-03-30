@@ -50,7 +50,14 @@ I’m a **full-stack software developer** specializing in modern **front-end and
  
 
 ### 🔹 [Piper-Z](https://piper-z.vercel.app/)  
-> **A powerful automation and bot management system**, designed to optimize workflows and streamline integrations.
+> **AI Messaging Pipeline UI** Create complex LLM workflows rightway in your UI!.
+> Chat with LLM!!
+> Create templates for saving conversations workflows.
+> Create workspaces for grouping conversations inside templates.
+> Customize model and system prompt inside workspace.
+> Foward messages from one LLM to another using pipes.
+> Use manual or automatic pipes for message fowarding.
+> Visualize pipe conections on the main workspace and monitor flow.
 
 
 ## 🌎 My Portfolio  
