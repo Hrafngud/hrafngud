@@ -4,7 +4,7 @@
 ---
 
 ## ✩ About Me
-I’m a **full-stack developer** experienced with **scalable financial front-end**, currently focused on building **open source solutions** like **infrastructure tools**, **development ecosystems**, and **AI-assisted systems**.
+I’m a Brazil-based **full-stack developer** experienced with **scalable financial front-end**, currently focused on building **open source solutions** like **infrastructure tools**, **development ecosystems**, and **AI-assisted systems**.
 
 ```
 
