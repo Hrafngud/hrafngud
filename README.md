@@ -69,7 +69,7 @@ Technical Focus:
 ## ✩ Featured Projects
 
 ### Gungnr
-https://docs.jdoss.pro/
+https://docs.gungnr.org/
 
 ```
 
