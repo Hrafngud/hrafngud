@@ -88,4 +88,4 @@ https://docs.jdoss.pro/
 
 Explore my work and projects:
 
-https://portifolio.jdoss.pro
+https://portifolio.gungnr.org
