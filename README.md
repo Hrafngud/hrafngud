@@ -121,4 +121,4 @@ My recent work includes building multi-tenant platforms, high-performance automa
 
 Explore my projects, engineering work and technical background:
 
-[portifolio.gungnr.org](https://portifolio.gungnr.org)
+[portifolio.gungnr.org](https://portfolio.gungnr.org)
